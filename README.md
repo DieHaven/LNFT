@@ -108,3 +108,4 @@ module.exports = {
 
 If using Infura, update __.infuraid__ with your [Infura](https://infura.io/) project ID.
 # lnft_domain
+# LNFT
